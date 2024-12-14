@@ -9,7 +9,7 @@
     "axios": "^1.7.9",
     "react-router-dom": "^7.0.2",
     "web-vitals": "^4.2.4",
-    "react-scripts": "^5.0.1"
+    "react-scripts": "latest"
   },
   "scripts": {
     "start": "react-scripts start",
